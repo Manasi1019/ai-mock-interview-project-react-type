@@ -1,0 +1,1 @@
+# ai-mock-interview-project-react-type
